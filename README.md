@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # lmucon20
 
 ## Project setup
@@ -23,7 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# LMUCON-2020
-Simple web app for event registration in vuejs and firebase
->>>>>>> main
