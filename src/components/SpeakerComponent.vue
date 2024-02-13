@@ -27,7 +27,7 @@
           <div class="col-12 col-sm-8 col-md-6 col-lg-4">
             <div class="single-team mb-50"><img src="/img/event/tola.jpg" alt="">
               <div class="hover-overlay">
-                <p class="text-semibold text-2xl">Oloruntola Ore-Aruwaji,<span class="pt-1 block">Cloud DevOps Engineer</span></p>
+                <p class="text-semibold text-2xl">Tola Ore-Aruwaji,<span class="pt-1 block">Cloud DevOps Engineer</span></p>
               </div>
             </div>
           </div>
@@ -155,4 +155,3 @@ export default {
 </script>
 <style lang="css" scoped>
 </style>
-

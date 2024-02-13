@@ -48,7 +48,7 @@
                         <h2>Date: <span class="text-2xl">Friday September 4th, 2020</span></h2>
                         <h2 class="">Venue: <span class="text-xl">Airmeet Virtual Platform</span></h2>
                         <h2 class="">Time: <span class="text-xl">11:00 AM</span></h2>
-                        <p class="font-semibold text-blue-800">Meet and Greet (Ask questions about DevOps, Terraform, and Ansible) - <span class="text-gray-600 font-normal">Oloruntola Ore-Aruwaji, Cloud DevOps Engineer (11:25 AM - 12:05 PM)</span></p>
+                        <p class="font-semibold text-blue-800">Meet and Greet (Ask questions about DevOps, Terraform, and Ansible) - <span class="text-gray-600 font-normal">Tola Ore-Aruwaji, Cloud DevOps Engineer (11:25 AM - 12:05 PM)</span></p>
                       </div>
                     </div>
                     <div class="col-12 col-md-6">
@@ -76,7 +76,7 @@
                         <p class="font-semibold text-orange-500">Third Speech (Introduction to Cloud Computing) - <span class="text-gray-600 font-normal">Sumeet Ranka, Associate Researcher, Huawei Toronto (12:42 PM - 12:57 PM)</span></p>
                         <p class="font-semibold text-orange-500">Fourth Speech (Introduction to Site-Reliability-Engineering) - <span class="text-gray-600 font-normal">Siddharth Kumar, Associate, Goldman Sachs (12:57 PM - 1:12 PM)</span></p>
                         <p class="font-semibold text-orange-500">Round Table discussion with Members of Developer Students Club - LMU (Shuaibu Fauzeeya and Michael Kalango) - 1:12 PM - 1:32 PM</p>
-                        <p class="font-semibold text-orange-500">Workshop: Resume and Job Landing (Remote & On-site) - <span class="text-gray-600 font-normal">Oloruntola Ore-Aruwaji, Cloud DevOps Engineer & Thomas Lewis, Spatial Computing Cloud Advocate, Microsoft (1:32 PM - 1:47 PM)</span></p>
+                        <p class="font-semibold text-orange-500">Workshop: Resume and Job Landing (Remote & On-site) - <span class="text-gray-600 font-normal">Tola Ore-Aruwaji, Cloud DevOps Engineer & Thomas Lewis, Spatial Computing Cloud Advocate, Microsoft (1:32 PM - 1:47 PM)</span></p>
                       </div>
                     </div>
                     <div class="col-12 col-md-6">
@@ -111,4 +111,3 @@ export default {
 </script>
 <style lang="css" scoped>
 </style>
-
